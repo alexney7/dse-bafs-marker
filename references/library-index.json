@@ -1,0 +1,2248 @@
+{
+  "schema_version": 1,
+  "review_date": "2026-09-27",
+  "files": [
+    {
+      "id": "BAFS-000",
+      "path": "会计教材/企业会计与财务概论Frank Wood会计必修部分第三版1-342P.pdf",
+      "pages": 341,
+      "role": "textbook",
+      "volume": 1,
+      "reviewed_pdf_pages": [
+        1,
+        3,
+        8,
+        9,
+        10,
+        11,
+        14,
+        38
+      ],
+      "verification": "selected-pages-reviewed"
+    },
+    {
+      "id": "BAFS-001",
+      "path": "会计教材/企业会计与财务概论Frank Wood会计必修部分第三版2-482P.pdf",
+      "pages": 481,
+      "role": "textbook",
+      "volume": 2,
+      "reviewed_pdf_pages": [
+        1,
+        3,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        54,
+        55
+      ],
+      "verification": "selected-pages-reviewed"
+    },
+    {
+      "id": "BAFS-002",
+      "path": "会计教材/企业会计与财务概论Frank Wood会计必修部分第三版3-360P.pdf",
+      "pages": 359,
+      "role": "textbook",
+      "volume": 3,
+      "reviewed_pdf_pages": [
+        1,
+        3,
+        8,
+        9,
+        10,
+        11,
+        15,
+        16
+      ],
+      "verification": "selected-pages-reviewed"
+    },
+    {
+      "id": "BAFS-003",
+      "path": "会计教材/企业会计与财务概论Frank Wood会计必修部分第三版4-398P.pdf",
+      "pages": 397,
+      "role": "textbook",
+      "volume": 4,
+      "reviewed_pdf_pages": [
+        1,
+        3,
+        8,
+        9,
+        10,
+        11,
+        16,
+        17
+      ],
+      "verification": "selected-pages-reviewed"
+    },
+    {
+      "id": "BAFS-004",
+      "path": "企業、會計與財務概論历年真题/企業會計與財務概論历年真题-DSE (中)/2020/2020-Sample-BAFS-Level1-C.pdf",
+      "pages": 23,
+      "year": 2020,
+      "role": "sample",
+      "reviewed_pdf_pages": [
+        15
+      ],
+      "verification": "selected-pages-reviewed",
+      "level": 1,
+      "suffix_A_unverified": false,
+      "sections": [
+        {
+          "pdf_start": 1,
+          "pdf_end": 5,
+          "label": "第一級示例卷一乙部",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 6,
+          "pdf_end": 15,
+          "label": "卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 16,
+          "pdf_end": 23,
+          "label": "卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        }
+      ]
+    },
+    {
+      "id": "BAFS-005",
+      "path": "企業、會計與財務概論历年真题/企業會計與財務概論历年真题-DSE (中)/2020/2020-Sample-BAFS-Level1A-C.pdf",
+      "pages": 21,
+      "year": 2020,
+      "role": "sample",
+      "reviewed_pdf_pages": [],
+      "verification": "file-inventoried-not-content-verified",
+      "level": 1,
+      "suffix_A_unverified": true,
+      "sections": [
+        {
+          "pdf_start": 1,
+          "pdf_end": 7,
+          "label": "第一級示例卷一乙部",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 8,
+          "pdf_end": 12,
+          "label": "卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 13,
+          "pdf_end": 21,
+          "label": "卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        }
+      ],
+      "use": "supplement; identify content before use; A is not a star grade"
+    },
+    {
+      "id": "BAFS-006",
+      "path": "企業、會計與財務概論历年真题/企業會計與財務概論历年真题-DSE (中)/2020/2020-Sample-BAFS-Level2-C.pdf",
+      "pages": 29,
+      "year": 2020,
+      "role": "sample",
+      "reviewed_pdf_pages": [
+        19
+      ],
+      "verification": "selected-pages-reviewed",
+      "level": 2,
+      "suffix_A_unverified": false,
+      "sections": [
+        {
+          "pdf_start": 1,
+          "pdf_end": 5,
+          "label": "第二級示例卷一乙部",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 6,
+          "pdf_end": 19,
+          "label": "卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 20,
+          "pdf_end": 29,
+          "label": "卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        }
+      ]
+    },
+    {
+      "id": "BAFS-007",
+      "path": "企業、會計與財務概論历年真题/企業會計與財務概論历年真题-DSE (中)/2020/2020-Sample-BAFS-Level2A-C.pdf",
+      "pages": 25,
+      "year": 2020,
+      "role": "sample",
+      "reviewed_pdf_pages": [],
+      "verification": "file-inventoried-not-content-verified",
+      "level": 2,
+      "suffix_A_unverified": true,
+      "sections": [
+        {
+          "pdf_start": 1,
+          "pdf_end": 5,
+          "label": "第二級示例卷一乙部",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 6,
+          "pdf_end": 14,
+          "label": "卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 15,
+          "pdf_end": 25,
+          "label": "卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        }
+      ],
+      "use": "supplement; identify content before use; A is not a star grade"
+    },
+    {
+      "id": "BAFS-008",
+      "path": "企業、會計與財務概論历年真题/企業會計與財務概論历年真题-DSE (中)/2020/2020-Sample-BAFS-Level3-C.pdf",
+      "pages": 31,
+      "year": 2020,
+      "role": "sample",
+      "reviewed_pdf_pages": [
+        17
+      ],
+      "verification": "selected-pages-reviewed",
+      "level": 3,
+      "suffix_A_unverified": false,
+      "sections": [
+        {
+          "pdf_start": 1,
+          "pdf_end": 6,
+          "label": "第三級示例卷一乙部",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 7,
+          "pdf_end": 17,
+          "label": "卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 18,
+          "pdf_end": 31,
+          "label": "卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        }
+      ]
+    },
+    {
+      "id": "BAFS-009",
+      "path": "企業、會計與財務概論历年真题/企業會計與財務概論历年真题-DSE (中)/2020/2020-Sample-BAFS-Level3A-C.pdf",
+      "pages": 30,
+      "year": 2020,
+      "role": "sample",
+      "reviewed_pdf_pages": [],
+      "verification": "file-inventoried-not-content-verified",
+      "level": 3,
+      "suffix_A_unverified": true,
+      "sections": [
+        {
+          "pdf_start": 1,
+          "pdf_end": 5,
+          "label": "第三級示例卷一乙部",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 6,
+          "pdf_end": 13,
+          "label": "卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 14,
+          "pdf_end": 30,
+          "label": "卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        }
+      ],
+      "use": "supplement; identify content before use; A is not a star grade"
+    },
+    {
+      "id": "BAFS-010",
+      "path": "企業、會計與財務概論历年真题/企業會計與財務概論历年真题-DSE (中)/2020/2020-Sample-BAFS-Level4-C.pdf",
+      "pages": 32,
+      "year": 2020,
+      "role": "sample",
+      "reviewed_pdf_pages": [
+        18
+      ],
+      "verification": "selected-pages-reviewed",
+      "level": 4,
+      "suffix_A_unverified": false,
+      "sections": [
+        {
+          "pdf_start": 1,
+          "pdf_end": 6,
+          "label": "第四級示例卷一乙部",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 7,
+          "pdf_end": 18,
+          "label": "卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 19,
+          "pdf_end": 32,
+          "label": "卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        }
+      ]
+    },
+    {
+      "id": "BAFS-011",
+      "path": "企業、會計與財務概論历年真题/企業會計與財務概論历年真题-DSE (中)/2020/2020-Sample-BAFS-Level4A-C.pdf",
+      "pages": 25,
+      "year": 2020,
+      "role": "sample",
+      "reviewed_pdf_pages": [],
+      "verification": "file-inventoried-not-content-verified",
+      "level": 4,
+      "suffix_A_unverified": true,
+      "sections": [
+        {
+          "pdf_start": 1,
+          "pdf_end": 5,
+          "label": "第四級示例卷一乙部",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 6,
+          "pdf_end": 15,
+          "label": "卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 16,
+          "pdf_end": 25,
+          "label": "卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        }
+      ],
+      "use": "supplement; identify content before use; A is not a star grade"
+    },
+    {
+      "id": "BAFS-012",
+      "path": "企業、會計與財務概論历年真题/企業會計與財務概論历年真题-DSE (中)/2020/2020-Sample-BAFS-Level5-C.pdf",
+      "pages": 39,
+      "year": 2020,
+      "role": "sample",
+      "reviewed_pdf_pages": [
+        7,
+        24
+      ],
+      "verification": "selected-pages-reviewed",
+      "level": 5,
+      "suffix_A_unverified": false,
+      "sections": [
+        {
+          "pdf_start": 1,
+          "pdf_end": 7,
+          "label": "第五級示例卷一乙部",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 8,
+          "pdf_end": 24,
+          "label": "卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 25,
+          "pdf_end": 39,
+          "label": "卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        }
+      ]
+    },
+    {
+      "id": "BAFS-013",
+      "path": "企業、會計與財務概論历年真题/企業會計與財務概論历年真题-DSE (中)/2020/2020-Sample-BAFS-Level5A-C.pdf",
+      "pages": 30,
+      "year": 2020,
+      "role": "sample",
+      "reviewed_pdf_pages": [],
+      "verification": "file-inventoried-not-content-verified",
+      "level": 5,
+      "suffix_A_unverified": true,
+      "sections": [
+        {
+          "pdf_start": 1,
+          "pdf_end": 5,
+          "label": "第五級示例卷一乙部",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 6,
+          "pdf_end": 18,
+          "label": "卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 19,
+          "pdf_end": 30,
+          "label": "卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        }
+      ],
+      "use": "supplement; identify content before use; A is not a star grade"
+    },
+    {
+      "id": "BAFS-014",
+      "path": "企業、會計與財務概論历年真题/企業會計與財務概論历年真题-DSE (中)/2020/2020ans.pdf",
+      "pages": 19,
+      "year": 2020,
+      "role": "mark-scheme",
+      "reviewed_pdf_pages": [
+        1,
+        2,
+        3,
+        5,
+        6,
+        7
+      ],
+      "verification": "selected-pages-reviewed"
+    },
+    {
+      "id": "BAFS-015",
+      "path": "企業、會計與財務概論历年真题/企業會計與財務概論历年真题-DSE (中)/2020/2020per.pdf",
+      "pages": 10,
+      "year": 2020,
+      "role": "performance-report",
+      "reviewed_pdf_pages": [],
+      "verification": "file-inventoried-not-content-verified"
+    },
+    {
+      "id": "BAFS-016",
+      "path": "企業、會計與財務概論历年真题/企業會計與財務概論历年真题-DSE (中)/2020/p1.pdf",
+      "pages": 9,
+      "year": 2020,
+      "role": "paper",
+      "reviewed_pdf_pages": [],
+      "verification": "file-inventoried-not-content-verified"
+    },
+    {
+      "id": "BAFS-017",
+      "path": "企業、會計與財務概論历年真题/企業會計與財務概論历年真题-DSE (中)/2020/p2a.pdf",
+      "pages": 10,
+      "year": 2020,
+      "role": "paper",
+      "reviewed_pdf_pages": [],
+      "verification": "file-inventoried-not-content-verified"
+    },
+    {
+      "id": "BAFS-019",
+      "path": "企業、會計與財務概論历年真题/企業會計與財務概論历年真题-DSE (中)/2021/2021-Sample-BAFS-Level1-C.pdf",
+      "pages": 25,
+      "year": 2021,
+      "role": "sample",
+      "reviewed_pdf_pages": [
+        16
+      ],
+      "verification": "selected-pages-reviewed",
+      "level": 1,
+      "suffix_A_unverified": false,
+      "sections": [
+        {
+          "pdf_start": 1,
+          "pdf_end": 6,
+          "label": "第一級示例卷一乙部",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 7,
+          "pdf_end": 16,
+          "label": "卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 17,
+          "pdf_end": 25,
+          "label": "卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        }
+      ]
+    },
+    {
+      "id": "BAFS-020",
+      "path": "企業、會計與財務概論历年真题/企業會計與財務概論历年真题-DSE (中)/2021/2021-Sample-BAFS-Level1A-C.pdf",
+      "pages": 22,
+      "year": 2021,
+      "role": "sample",
+      "reviewed_pdf_pages": [],
+      "verification": "file-inventoried-not-content-verified",
+      "level": 1,
+      "suffix_A_unverified": true,
+      "sections": [
+        {
+          "pdf_start": 1,
+          "pdf_end": 4,
+          "label": "第一級示例卷一乙部",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 5,
+          "pdf_end": 14,
+          "label": "卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 15,
+          "pdf_end": 22,
+          "label": "卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        }
+      ],
+      "use": "supplement; identify content before use; A is not a star grade"
+    },
+    {
+      "id": "BAFS-021",
+      "path": "企業、會計與財務概論历年真题/企業會計與財務概論历年真题-DSE (中)/2021/2021-Sample-BAFS-Level2-C.pdf",
+      "pages": 23,
+      "year": 2021,
+      "role": "sample",
+      "reviewed_pdf_pages": [
+        14
+      ],
+      "verification": "selected-pages-reviewed",
+      "level": 2,
+      "suffix_A_unverified": false,
+      "sections": [
+        {
+          "pdf_start": 1,
+          "pdf_end": 5,
+          "label": "第二級示例卷一乙部",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 6,
+          "pdf_end": 14,
+          "label": "卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 15,
+          "pdf_end": 23,
+          "label": "卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        }
+      ]
+    },
+    {
+      "id": "BAFS-022",
+      "path": "企業、會計與財務概論历年真题/企業會計與財務概論历年真题-DSE (中)/2021/2021-Sample-BAFS-Level2A-C.pdf",
+      "pages": 23,
+      "year": 2021,
+      "role": "sample",
+      "reviewed_pdf_pages": [],
+      "verification": "file-inventoried-not-content-verified",
+      "level": 2,
+      "suffix_A_unverified": true,
+      "sections": [
+        {
+          "pdf_start": 1,
+          "pdf_end": 5,
+          "label": "第二級示例卷一乙部",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 6,
+          "pdf_end": 13,
+          "label": "卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 14,
+          "pdf_end": 23,
+          "label": "卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        }
+      ],
+      "use": "supplement; identify content before use; A is not a star grade"
+    },
+    {
+      "id": "BAFS-023",
+      "path": "企業、會計與財務概論历年真题/企業會計與財務概論历年真题-DSE (中)/2021/2021-Sample-BAFS-Level3-C.pdf",
+      "pages": 28,
+      "year": 2021,
+      "role": "sample",
+      "reviewed_pdf_pages": [
+        19
+      ],
+      "verification": "selected-pages-reviewed",
+      "level": 3,
+      "suffix_A_unverified": false,
+      "sections": [
+        {
+          "pdf_start": 1,
+          "pdf_end": 7,
+          "label": "第三級示例卷一乙部",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 8,
+          "pdf_end": 19,
+          "label": "卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 20,
+          "pdf_end": 28,
+          "label": "卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        }
+      ]
+    },
+    {
+      "id": "BAFS-024",
+      "path": "企業、會計與財務概論历年真题/企業會計與財務概論历年真题-DSE (中)/2021/2021-Sample-BAFS-Level3A-C.pdf",
+      "pages": 23,
+      "year": 2021,
+      "role": "sample",
+      "reviewed_pdf_pages": [],
+      "verification": "file-inventoried-not-content-verified",
+      "level": 3,
+      "suffix_A_unverified": true,
+      "sections": [
+        {
+          "pdf_start": 1,
+          "pdf_end": 5,
+          "label": "第三級示例卷一乙部",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 6,
+          "pdf_end": 14,
+          "label": "卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 15,
+          "pdf_end": 23,
+          "label": "卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        }
+      ],
+      "use": "supplement; identify content before use; A is not a star grade"
+    },
+    {
+      "id": "BAFS-025",
+      "path": "企業、會計與財務概論历年真题/企業會計與財務概論历年真题-DSE (中)/2021/2021-Sample-BAFS-Level4-C.pdf",
+      "pages": 31,
+      "year": 2021,
+      "role": "sample",
+      "reviewed_pdf_pages": [
+        19
+      ],
+      "verification": "selected-pages-reviewed",
+      "level": 4,
+      "suffix_A_unverified": false,
+      "sections": [
+        {
+          "pdf_start": 1,
+          "pdf_end": 7,
+          "label": "第四級示例卷一乙部",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 8,
+          "pdf_end": 19,
+          "label": "卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 20,
+          "pdf_end": 31,
+          "label": "卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        }
+      ]
+    },
+    {
+      "id": "BAFS-026",
+      "path": "企業、會計與財務概論历年真题/企業會計與財務概論历年真题-DSE (中)/2021/2021-Sample-BAFS-Level4A-C.pdf",
+      "pages": 28,
+      "year": 2021,
+      "role": "sample",
+      "reviewed_pdf_pages": [],
+      "verification": "file-inventoried-not-content-verified",
+      "level": 4,
+      "suffix_A_unverified": true,
+      "sections": [
+        {
+          "pdf_start": 1,
+          "pdf_end": 6,
+          "label": "第四級示例卷一乙部",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 7,
+          "pdf_end": 17,
+          "label": "卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 18,
+          "pdf_end": 28,
+          "label": "卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        }
+      ],
+      "use": "supplement; identify content before use; A is not a star grade"
+    },
+    {
+      "id": "BAFS-027",
+      "path": "企業、會計與財務概論历年真题/企業會計與財務概論历年真题-DSE (中)/2021/2021-Sample-BAFS-Level5-C.pdf",
+      "pages": 39,
+      "year": 2021,
+      "role": "sample",
+      "reviewed_pdf_pages": [
+        7,
+        8,
+        9,
+        25
+      ],
+      "verification": "selected-pages-reviewed",
+      "level": 5,
+      "suffix_A_unverified": false,
+      "sections": [
+        {
+          "pdf_start": 1,
+          "pdf_end": 7,
+          "label": "第五級示例卷一乙部",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 8,
+          "pdf_end": 25,
+          "label": "卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 26,
+          "pdf_end": 39,
+          "label": "卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        }
+      ]
+    },
+    {
+      "id": "BAFS-028",
+      "path": "企業、會計與財務概論历年真题/企業會計與財務概論历年真题-DSE (中)/2021/2021-Sample-BAFS-Level5A-C.pdf",
+      "pages": 30,
+      "year": 2021,
+      "role": "sample",
+      "reviewed_pdf_pages": [],
+      "verification": "file-inventoried-not-content-verified",
+      "level": 5,
+      "suffix_A_unverified": true,
+      "sections": [
+        {
+          "pdf_start": 1,
+          "pdf_end": 6,
+          "label": "第五級示例卷一乙部",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 7,
+          "pdf_end": 20,
+          "label": "卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 21,
+          "pdf_end": 30,
+          "label": "卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        }
+      ],
+      "use": "supplement; identify content before use; A is not a star grade"
+    },
+    {
+      "id": "BAFS-029",
+      "path": "企業、會計與財務概論历年真题/企業會計與財務概論历年真题-DSE (中)/2021/2021ans.pdf",
+      "pages": 9,
+      "year": 2021,
+      "role": "mark-scheme",
+      "reviewed_pdf_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        9
+      ],
+      "verification": "selected-pages-reviewed",
+      "known_gap": "Chinese file omits Paper 2A marking scheme; use BAFS-061 after matching question."
+    },
+    {
+      "id": "BAFS-030",
+      "path": "企業、會計與財務概論历年真题/企業會計與財務概論历年真题-DSE (中)/2021/2021per.pdf",
+      "pages": 10,
+      "year": 2021,
+      "role": "performance-report",
+      "reviewed_pdf_pages": [],
+      "verification": "file-inventoried-not-content-verified"
+    },
+    {
+      "id": "BAFS-031",
+      "path": "企業、會計與財務概論历年真题/企業會計與財務概論历年真题-DSE (中)/2021/p1.pdf",
+      "pages": 12,
+      "year": 2021,
+      "role": "paper",
+      "reviewed_pdf_pages": [],
+      "verification": "file-inventoried-not-content-verified"
+    },
+    {
+      "id": "BAFS-032",
+      "path": "企業、會計與財務概論历年真题/企業會計與財務概論历年真题-DSE (中)/2021/p2a.pdf",
+      "pages": 12,
+      "year": 2021,
+      "role": "paper",
+      "reviewed_pdf_pages": [
+        1,
+        2,
+        3
+      ],
+      "verification": "selected-pages-reviewed"
+    },
+    {
+      "id": "BAFS-034",
+      "path": "企業、會計與財務概論历年真题/企業會計與財務概論历年真题-DSE (中)/2022/2022-Sample-BAFS-Level1-C.pdf",
+      "pages": 38,
+      "year": 2022,
+      "role": "sample",
+      "reviewed_pdf_pages": [],
+      "verification": "file-inventoried-not-content-verified",
+      "level": 1,
+      "suffix_A_unverified": false,
+      "sections": [
+        {
+          "pdf_start": 1,
+          "pdf_end": 5,
+          "label": "第一級示例一卷一乙部",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 6,
+          "pdf_end": 9,
+          "label": "第一級示例二卷一乙部",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 10,
+          "pdf_end": 15,
+          "label": "第一級示例一卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 16,
+          "pdf_end": 23,
+          "label": "第一級示例二卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 24,
+          "pdf_end": 32,
+          "label": "第一級示例一卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 33,
+          "pdf_end": 38,
+          "label": "第一級示例二卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        }
+      ]
+    },
+    {
+      "id": "BAFS-035",
+      "path": "企業、會計與財務概論历年真题/企業會計與財務概論历年真题-DSE (中)/2022/2022-Sample-BAFS-Level2-C.pdf",
+      "pages": 43,
+      "year": 2022,
+      "role": "sample",
+      "reviewed_pdf_pages": [],
+      "verification": "file-inventoried-not-content-verified",
+      "level": 2,
+      "suffix_A_unverified": false,
+      "sections": [
+        {
+          "pdf_start": 1,
+          "pdf_end": 5,
+          "label": "第二級示例一卷一乙部",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 6,
+          "pdf_end": 10,
+          "label": "第二級示例二卷一乙部",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 11,
+          "pdf_end": 17,
+          "label": "第二級示例一卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 18,
+          "pdf_end": 27,
+          "label": "第二級示例二卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 28,
+          "pdf_end": 35,
+          "label": "第二級示例一卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 36,
+          "pdf_end": 43,
+          "label": "第二級示例二卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        }
+      ]
+    },
+    {
+      "id": "BAFS-036",
+      "path": "企業、會計與財務概論历年真题/企業會計與財務概論历年真题-DSE (中)/2022/2022-Sample-BAFS-Level3-C.pdf",
+      "pages": 48,
+      "year": 2022,
+      "role": "sample",
+      "reviewed_pdf_pages": [],
+      "verification": "file-inventoried-not-content-verified",
+      "level": 3,
+      "suffix_A_unverified": false,
+      "sections": [
+        {
+          "pdf_start": 1,
+          "pdf_end": 5,
+          "label": "第三級示例一卷一乙部",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 6,
+          "pdf_end": 10,
+          "label": "第三級示例二卷一乙部",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 11,
+          "pdf_end": 22,
+          "label": "第三級示例一卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 23,
+          "pdf_end": 30,
+          "label": "第三級示例二卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 31,
+          "pdf_end": 39,
+          "label": "第三級示例一卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 40,
+          "pdf_end": 48,
+          "label": "第三級示例二卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        }
+      ]
+    },
+    {
+      "id": "BAFS-037",
+      "path": "企業、會計與財務概論历年真题/企業會計與財務概論历年真题-DSE (中)/2022/2022-Sample-BAFS-Level4-C.pdf",
+      "pages": 55,
+      "year": 2022,
+      "role": "sample",
+      "reviewed_pdf_pages": [],
+      "verification": "file-inventoried-not-content-verified",
+      "level": 4,
+      "suffix_A_unverified": false,
+      "sections": [
+        {
+          "pdf_start": 1,
+          "pdf_end": 6,
+          "label": "第四級示例一卷一乙部",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 7,
+          "pdf_end": 11,
+          "label": "第四級示例二卷一乙部",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 12,
+          "pdf_end": 22,
+          "label": "第四級示例一卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 23,
+          "pdf_end": 33,
+          "label": "第四級示例二卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 34,
+          "pdf_end": 44,
+          "label": "第四級示例一卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 45,
+          "pdf_end": 55,
+          "label": "第四級示例二卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        }
+      ]
+    },
+    {
+      "id": "BAFS-038",
+      "path": "企業、會計與財務概論历年真题/企業會計與財務概論历年真题-DSE (中)/2022/2022-Sample-BAFS-Level5-C.pdf",
+      "pages": 48,
+      "year": 2022,
+      "role": "sample",
+      "reviewed_pdf_pages": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        19,
+        29
+      ],
+      "verification": "selected-pages-reviewed",
+      "level": 5,
+      "suffix_A_unverified": false,
+      "sections": [
+        {
+          "pdf_start": 1,
+          "pdf_end": 5,
+          "label": "第五級示例一卷一乙部",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 6,
+          "pdf_end": 10,
+          "label": "第五級示例二卷一乙部",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 11,
+          "pdf_end": 19,
+          "label": "第五級示例一卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 20,
+          "pdf_end": 29,
+          "label": "第五級示例二卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 30,
+          "pdf_end": 37,
+          "label": "第五級示例一卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 38,
+          "pdf_end": 48,
+          "label": "第五級示例二卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        }
+      ]
+    },
+    {
+      "id": "BAFS-039",
+      "path": "企業、會計與財務概論历年真题/企業會計與財務概論历年真题-DSE (中)/2022/p1.pdf",
+      "pages": 6,
+      "year": 2022,
+      "role": "paper",
+      "reviewed_pdf_pages": [],
+      "verification": "file-inventoried-not-content-verified"
+    },
+    {
+      "id": "BAFS-040",
+      "path": "企業、會計與財務概論历年真题/企業會計與財務概論历年真题-DSE (中)/2022/企业、会计与财务概论 2022试题专辑.pdf",
+      "pages": 64,
+      "year": 2022,
+      "role": "compendium",
+      "reviewed_pdf_pages": [
+        3,
+        4,
+        34,
+        35,
+        38,
+        39,
+        40,
+        52
+      ],
+      "verification": "selected-pages-reviewed"
+    },
+    {
+      "id": "BAFS-041",
+      "path": "企業、會計與財務概論历年真题/企業會計與財務概論历年真题-DSE (中)/2023/2023-Sample-BAFS-Level1-C-2186.pdf",
+      "pages": 46,
+      "year": 2023,
+      "role": "sample",
+      "reviewed_pdf_pages": [],
+      "verification": "file-inventoried-not-content-verified",
+      "level": 1,
+      "suffix_A_unverified": false,
+      "sections": [
+        {
+          "pdf_start": 1,
+          "pdf_end": 5,
+          "label": "第一級示例一卷一乙部",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 6,
+          "pdf_end": 10,
+          "label": "第一級示例二卷一乙部",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 11,
+          "pdf_end": 21,
+          "label": "第一級示例一卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 22,
+          "pdf_end": 31,
+          "label": "第一級示例二卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 32,
+          "pdf_end": 40,
+          "label": "第一級示例一卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 41,
+          "pdf_end": 46,
+          "label": "第一級示例二卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        }
+      ]
+    },
+    {
+      "id": "BAFS-042",
+      "path": "企業、會計與財務概論历年真题/企業會計與財務概論历年真题-DSE (中)/2023/2023-Sample-BAFS-Level2-C-2186.pdf",
+      "pages": 48,
+      "year": 2023,
+      "role": "sample",
+      "reviewed_pdf_pages": [],
+      "verification": "file-inventoried-not-content-verified",
+      "level": 2,
+      "suffix_A_unverified": false,
+      "sections": [
+        {
+          "pdf_start": 1,
+          "pdf_end": 5,
+          "label": "第二級示例一卷一乙部",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 6,
+          "pdf_end": 9,
+          "label": "第二級示例二卷一乙部",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 10,
+          "pdf_end": 19,
+          "label": "第二級示例一卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 20,
+          "pdf_end": 31,
+          "label": "第二級示例二卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 32,
+          "pdf_end": 39,
+          "label": "第二級示例一卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 40,
+          "pdf_end": 48,
+          "label": "第二級示例二卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        }
+      ]
+    },
+    {
+      "id": "BAFS-043",
+      "path": "企業、會計與財務概論历年真题/企業會計與財務概論历年真题-DSE (中)/2023/2023-Sample-BAFS-Level3-C-2186.pdf",
+      "pages": 44,
+      "year": 2023,
+      "role": "sample",
+      "reviewed_pdf_pages": [],
+      "verification": "file-inventoried-not-content-verified",
+      "level": 3,
+      "suffix_A_unverified": false,
+      "sections": [
+        {
+          "pdf_start": 1,
+          "pdf_end": 5,
+          "label": "第三級示例一卷一乙部",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 6,
+          "pdf_end": 9,
+          "label": "第三級示例二卷一乙部",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 10,
+          "pdf_end": 19,
+          "label": "第三級示例一卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 20,
+          "pdf_end": 29,
+          "label": "第三級示例二卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 30,
+          "pdf_end": 36,
+          "label": "第三級示例一卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 37,
+          "pdf_end": 44,
+          "label": "第三級示例二卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        }
+      ]
+    },
+    {
+      "id": "BAFS-044",
+      "path": "企業、會計與財務概論历年真题/企業會計與財務概論历年真题-DSE (中)/2023/2023-Sample-BAFS-Level4-C-2186.pdf",
+      "pages": 59,
+      "year": 2023,
+      "role": "sample",
+      "reviewed_pdf_pages": [],
+      "verification": "file-inventoried-not-content-verified",
+      "level": 4,
+      "suffix_A_unverified": false,
+      "sections": [
+        {
+          "pdf_start": 1,
+          "pdf_end": 6,
+          "label": "第四級示例一卷一乙部",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 7,
+          "pdf_end": 11,
+          "label": "第四級示例二卷一乙部",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 12,
+          "pdf_end": 23,
+          "label": "第四級示例一卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 24,
+          "pdf_end": 37,
+          "label": "第四級示例二卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 38,
+          "pdf_end": 49,
+          "label": "第四級示例一卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 50,
+          "pdf_end": 59,
+          "label": "第四級示例二卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        }
+      ]
+    },
+    {
+      "id": "BAFS-045",
+      "path": "企業、會計與財務概論历年真题/企業會計與財務概論历年真题-DSE (中)/2023/2023-Sample-BAFS-Level5-C-2186.pdf",
+      "pages": 60,
+      "year": 2023,
+      "role": "sample",
+      "reviewed_pdf_pages": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        12,
+        26,
+        39
+      ],
+      "verification": "selected-pages-reviewed",
+      "level": 5,
+      "suffix_A_unverified": false,
+      "sections": [
+        {
+          "pdf_start": 1,
+          "pdf_end": 5,
+          "label": "第五級示例一卷一乙部",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 6,
+          "pdf_end": 11,
+          "label": "第五級示例二卷一乙部",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 12,
+          "pdf_end": 26,
+          "label": "第五級示例一卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 27,
+          "pdf_end": 39,
+          "label": "第五級示例二卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 40,
+          "pdf_end": 48,
+          "label": "第五級示例一卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 49,
+          "pdf_end": 60,
+          "label": "第五級示例二卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        }
+      ]
+    },
+    {
+      "id": "BAFS-046",
+      "path": "企業、會計與財務概論历年真题/企業會計與財務概論历年真题-DSE (中)/2023/企业，会计与财务概论 2023试题专辑.pdf",
+      "pages": 64,
+      "year": 2023,
+      "role": "compendium",
+      "reviewed_pdf_pages": [
+        2,
+        3,
+        4,
+        32,
+        33,
+        36,
+        37,
+        38,
+        50
+      ],
+      "verification": "selected-pages-reviewed"
+    },
+    {
+      "id": "BAFS-047",
+      "path": "企業、會計與財務概論历年真题/企業會計與財務概論历年真题-DSE (中)/2024/1_企業會計與財務概論 2024試題專輯.pdf",
+      "pages": 60,
+      "year": 2024,
+      "role": "compendium",
+      "reviewed_pdf_pages": [
+        2,
+        3,
+        4,
+        30,
+        31,
+        32,
+        34,
+        35,
+        36,
+        48
+      ],
+      "verification": "selected-pages-reviewed"
+    },
+    {
+      "id": "BAFS-048",
+      "path": "企業、會計與財務概論历年真题/企業會計與財務概論历年真题-DSE (中)/2024/2024-Sample-BAFS-Level1-C-424R.pdf",
+      "pages": 41,
+      "year": 2024,
+      "role": "sample",
+      "reviewed_pdf_pages": [],
+      "verification": "file-inventoried-not-content-verified",
+      "level": 1,
+      "suffix_A_unverified": false,
+      "sections": [
+        {
+          "pdf_start": 1,
+          "pdf_end": 4,
+          "label": "第一級示例一卷一乙部",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 5,
+          "pdf_end": 8,
+          "label": "第一級示例二卷一乙部",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 9,
+          "pdf_end": 20,
+          "label": "第一級示例一卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 21,
+          "pdf_end": 28,
+          "label": "第一級示例二卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 29,
+          "pdf_end": 35,
+          "label": "第一級示例一卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 36,
+          "pdf_end": 41,
+          "label": "第一級示例二卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        }
+      ]
+    },
+    {
+      "id": "BAFS-049",
+      "path": "企業、會計與財務概論历年真题/企業會計與財務概論历年真题-DSE (中)/2024/2024-Sample-BAFS-Level2-C-424R.pdf",
+      "pages": 45,
+      "year": 2024,
+      "role": "sample",
+      "reviewed_pdf_pages": [],
+      "verification": "file-inventoried-not-content-verified",
+      "level": 2,
+      "suffix_A_unverified": false,
+      "sections": [
+        {
+          "pdf_start": 1,
+          "pdf_end": 4,
+          "label": "第二級示例一卷一乙部",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 5,
+          "pdf_end": 8,
+          "label": "第二級示例二卷一乙部",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 9,
+          "pdf_end": 19,
+          "label": "第二級示例一卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 20,
+          "pdf_end": 29,
+          "label": "第二級示例二卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 30,
+          "pdf_end": 37,
+          "label": "第二級示例一卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 38,
+          "pdf_end": 45,
+          "label": "第二級示例二卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        }
+      ]
+    },
+    {
+      "id": "BAFS-050",
+      "path": "企業、會計與財務概論历年真题/企業會計與財務概論历年真题-DSE (中)/2024/2024-Sample-BAFS-Level3-C-424R.pdf",
+      "pages": 42,
+      "year": 2024,
+      "role": "sample",
+      "reviewed_pdf_pages": [],
+      "verification": "file-inventoried-not-content-verified",
+      "level": 3,
+      "suffix_A_unverified": false,
+      "sections": [
+        {
+          "pdf_start": 1,
+          "pdf_end": 4,
+          "label": "第三級示例一卷一乙部",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 5,
+          "pdf_end": 8,
+          "label": "第三級示例二卷一乙部",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 9,
+          "pdf_end": 17,
+          "label": "第三級示例一卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 18,
+          "pdf_end": 27,
+          "label": "第三級示例二卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 28,
+          "pdf_end": 34,
+          "label": "第三級示例一卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 35,
+          "pdf_end": 42,
+          "label": "第三級示例二卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        }
+      ]
+    },
+    {
+      "id": "BAFS-051",
+      "path": "企業、會計與財務概論历年真题/企業會計與財務概論历年真题-DSE (中)/2024/2024-Sample-BAFS-Level4-C-424R.pdf",
+      "pages": 44,
+      "year": 2024,
+      "role": "sample",
+      "reviewed_pdf_pages": [],
+      "verification": "file-inventoried-not-content-verified",
+      "level": 4,
+      "suffix_A_unverified": false,
+      "sections": [
+        {
+          "pdf_start": 1,
+          "pdf_end": 4,
+          "label": "第四級示例一卷一乙部",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 5,
+          "pdf_end": 8,
+          "label": "第四級示例二卷一乙部",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 9,
+          "pdf_end": 17,
+          "label": "第四級示例一卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 18,
+          "pdf_end": 26,
+          "label": "第四級示例二卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 27,
+          "pdf_end": 36,
+          "label": "第四級示例一卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 37,
+          "pdf_end": 44,
+          "label": "第四級示例二卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        }
+      ]
+    },
+    {
+      "id": "BAFS-052",
+      "path": "企業、會計與財務概論历年真题/企業會計與財務概論历年真题-DSE (中)/2024/2024-Sample-BAFS-Level5-C-424R.pdf",
+      "pages": 52,
+      "year": 2024,
+      "role": "sample",
+      "reviewed_pdf_pages": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        18,
+        28
+      ],
+      "verification": "selected-pages-reviewed",
+      "level": 5,
+      "suffix_A_unverified": false,
+      "sections": [
+        {
+          "pdf_start": 1,
+          "pdf_end": 4,
+          "label": "第五級示例一卷一乙部",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 5,
+          "pdf_end": 8,
+          "label": "第五級示例二卷一乙部",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 9,
+          "pdf_end": 18,
+          "label": "第五級示例一卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 19,
+          "pdf_end": 28,
+          "label": "第五級示例二卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 29,
+          "pdf_end": 38,
+          "label": "第五級示例一卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 39,
+          "pdf_end": 52,
+          "label": "第五級示例二卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        }
+      ]
+    },
+    {
+      "id": "BAFS-053",
+      "path": "企業、會計與財務概論历年真题/企業會計與財務概論历年真题-DSE (中)/2025/2025 MS+CP.pdf",
+      "pages": 29,
+      "year": 2025,
+      "role": "mark-scheme",
+      "reviewed_pdf_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "verification": "selected-pages-reviewed"
+    },
+    {
+      "id": "BAFS-054",
+      "path": "企業、會計與財務概論历年真题/企業會計與財務概論历年真题-DSE (中)/2025/2025 P1.pdf",
+      "pages": 14,
+      "year": 2025,
+      "role": "paper",
+      "reviewed_pdf_pages": [
+        1,
+        7,
+        8
+      ],
+      "verification": "selected-pages-reviewed"
+    },
+    {
+      "id": "BAFS-055",
+      "path": "企業、會計與財務概論历年真题/企業會計與財務概論历年真题-DSE (中)/2025/2025 P2.pdf",
+      "pages": 16,
+      "year": 2025,
+      "role": "paper",
+      "reviewed_pdf_pages": [
+        1,
+        2,
+        3
+      ],
+      "verification": "selected-pages-reviewed"
+    },
+    {
+      "id": "BAFS-056",
+      "path": "企業、會計與財務概論历年真题/企業會計與財務概論历年真题-DSE (中)/2025/2025-Sample-BAFS-Level1-C-H908.pdf",
+      "pages": 45,
+      "year": 2025,
+      "role": "sample",
+      "reviewed_pdf_pages": [
+        11,
+        12,
+        16
+      ],
+      "verification": "selected-pages-reviewed",
+      "level": 1,
+      "suffix_A_unverified": false,
+      "sections": [
+        {
+          "pdf_start": 1,
+          "pdf_end": 7,
+          "label": "第一級示例一卷一甲（乙部）",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 8,
+          "pdf_end": 10,
+          "label": "第一級示例二卷一甲（乙部）",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 11,
+          "pdf_end": 16,
+          "label": "第一級示例一卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 17,
+          "pdf_end": 24,
+          "label": "第一級示例二卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 25,
+          "pdf_end": 27,
+          "label": "第一級示例一卷一乙（乙部）",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 28,
+          "pdf_end": 30,
+          "label": "第一級示例二卷一乙（乙部）",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 31,
+          "pdf_end": 37,
+          "label": "第一級示例一卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 38,
+          "pdf_end": 45,
+          "label": "第一級示例二卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        }
+      ]
+    },
+    {
+      "id": "BAFS-057",
+      "path": "企業、會計與財務概論历年真题/企業會計與財務概論历年真题-DSE (中)/2025/2025-Sample-BAFS-Level2-C-H908.pdf",
+      "pages": 51,
+      "year": 2025,
+      "role": "sample",
+      "reviewed_pdf_pages": [],
+      "verification": "file-inventoried-not-content-verified",
+      "level": 2,
+      "suffix_A_unverified": false,
+      "sections": [
+        {
+          "pdf_start": 1,
+          "pdf_end": 3,
+          "label": "第二級示例一卷一甲（乙部）",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 4,
+          "pdf_end": 6,
+          "label": "第二級示例二卷一甲（乙部）",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 7,
+          "pdf_end": 17,
+          "label": "第二級示例一卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 18,
+          "pdf_end": 27,
+          "label": "第二級示例二卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 28,
+          "pdf_end": 30,
+          "label": "第二級示例一卷一乙（乙部）",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 31,
+          "pdf_end": 33,
+          "label": "第二級示例二卷一乙（乙部）",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 34,
+          "pdf_end": 42,
+          "label": "第二級示例一卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 43,
+          "pdf_end": 51,
+          "label": "第二級示例二卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        }
+      ]
+    },
+    {
+      "id": "BAFS-058",
+      "path": "企業、會計與財務概論历年真题/企業會計與財務概論历年真题-DSE (中)/2025/2025-Sample-BAFS-Level3-C-H908.pdf",
+      "pages": 57,
+      "year": 2025,
+      "role": "sample",
+      "reviewed_pdf_pages": [
+        7,
+        8,
+        18
+      ],
+      "verification": "selected-pages-reviewed",
+      "level": 3,
+      "suffix_A_unverified": false,
+      "sections": [
+        {
+          "pdf_start": 1,
+          "pdf_end": 3,
+          "label": "第三級示例一卷一甲（乙部）",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 4,
+          "pdf_end": 6,
+          "label": "第三級示例二卷一甲（乙部）",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 7,
+          "pdf_end": 18,
+          "label": "第三級示例一卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 19,
+          "pdf_end": 30,
+          "label": "第三級示例二卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 31,
+          "pdf_end": 33,
+          "label": "第三級示例一卷一乙（乙部）",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 34,
+          "pdf_end": 36,
+          "label": "第三級示例二卷一乙（乙部）",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 37,
+          "pdf_end": 47,
+          "label": "第三級示例一卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 48,
+          "pdf_end": 57,
+          "label": "第三級示例二卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        }
+      ]
+    },
+    {
+      "id": "BAFS-059",
+      "path": "企業、會計與財務概論历年真题/企業會計與財務概論历年真题-DSE (中)/2025/2025-Sample-BAFS-Level4-C-H908.pdf",
+      "pages": 63,
+      "year": 2025,
+      "role": "sample",
+      "reviewed_pdf_pages": [],
+      "verification": "file-inventoried-not-content-verified",
+      "level": 4,
+      "suffix_A_unverified": false,
+      "sections": [
+        {
+          "pdf_start": 1,
+          "pdf_end": 3,
+          "label": "第四級示例一卷一甲（乙部）",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 4,
+          "pdf_end": 6,
+          "label": "第四級示例二卷一甲（乙部）",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 7,
+          "pdf_end": 18,
+          "label": "第四級示例一卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 19,
+          "pdf_end": 32,
+          "label": "第四級示例二卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 33,
+          "pdf_end": 36,
+          "label": "第四級示例一卷一乙（乙部）",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 37,
+          "pdf_end": 39,
+          "label": "第四級示例二卷一乙（乙部）",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 40,
+          "pdf_end": 52,
+          "label": "第四級示例一卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 53,
+          "pdf_end": 63,
+          "label": "第四級示例二卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        }
+      ]
+    },
+    {
+      "id": "BAFS-060",
+      "path": "企業、會計與財務概論历年真题/企業會計與財務概論历年真题-DSE (中)/2025/2025-Sample-BAFS-Level5-C-H908.pdf",
+      "pages": 77,
+      "year": 2025,
+      "role": "sample",
+      "reviewed_pdf_pages": [
+        1,
+        2,
+        3,
+        4,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        27,
+        28
+      ],
+      "verification": "selected-pages-reviewed",
+      "level": 5,
+      "suffix_A_unverified": false,
+      "sections": [
+        {
+          "pdf_start": 1,
+          "pdf_end": 3,
+          "label": "第五級示例一卷一甲（乙部）",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 4,
+          "pdf_end": 6,
+          "label": "第五級示例二卷一甲（乙部）",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 7,
+          "pdf_end": 28,
+          "label": "第五級示例一卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 29,
+          "pdf_end": 42,
+          "label": "第五級示例二卷二甲",
+          "in_scope": true,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 43,
+          "pdf_end": 46,
+          "label": "第五級示例一卷一乙（乙部）",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 47,
+          "pdf_end": 49,
+          "label": "第五級示例二卷一乙（乙部）",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 50,
+          "pdf_end": 63,
+          "label": "第五級示例一卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        },
+        {
+          "pdf_start": 64,
+          "pdf_end": 77,
+          "label": "第五級示例二卷二乙",
+          "in_scope": false,
+          "boundary_source": "extracted-header; verify visually at use"
+        }
+      ]
+    },
+    {
+      "id": "BAFS-061",
+      "path": "企業、會計與財務概論历年真题/DSE (英)/2021/ans.pdf",
+      "pages": 29,
+      "year": 2021,
+      "role": "mark-scheme",
+      "reviewed_pdf_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "verification": "selected-pages-reviewed",
+      "note": "English folder file starts with Paper 2A marking scheme on PDF1; PDF1-10 reviewed. Q1-2 matched to Chinese paper."
+    }
+  ],
+  "known_content_gaps": [
+    "2021 Chinese 2021ans.pdf omits Paper 2A. English alternate is indexed; verify each question and data before cross-language use.",
+    "No verified 5-star or 5-double-star boundaries or separately labelled samples.",
+    "2022-2025 sample text layers contain section headings but no extracted readable examiner comments; do not fabricate comments.",
+    "2020-2021 LevelNA supplemental sample suffix has not been identified.",
+    "Textbook tables of contents and selected concept pages reviewed, not every page; verify exact page before citation.",
+    "Selected examination/sample pages reviewed, not all six years exhaustively re-marked."
+  ]
+}

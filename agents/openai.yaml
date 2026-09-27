@@ -1,0 +1,4 @@
+interface:
+  display_name: "DSE 企會財閱卷"
+  short_description: "批改必修與會計選修，提供逐點分數、整卷或單題表現預測及教材補強"
+  default_prompt: "使用 $dse-bafs-marker 批改我提供的企會財答案，按本題評分參考給分，並提供相應範圍的表現預測及教材補強建議。"
