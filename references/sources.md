@@ -40,3 +40,7 @@
 - [2026評核大綱](https://www.hkeaa.edu.hk/DocLibrary/HKDSE/Subject_Information/bafs/2026hkdse-c-bafs.pdf)
 
 建置時搜尋定位到上述官方入口，但直接開啟2025頁面／大綱返回403；不聲稱已讀其全文。本地原頁是本版具體規則與頁碼的核對依據。執行時需更新年份資訊才查官網，不以搜尋摘要替代完整細則。
+
+## 外部分數線參考
+
+[cutoffs.md](cutoffs.md) 和 [cutoffs.json](cutoffs.json) 保存DSE00會計方向2020–2025快照。此類學生分享／推算數據不提高為官方來源，不改變細則優先級；計分口徑未核實前不換算等級。來源日期、推算標记、缺失Level1／U與新舊站差異須保留。

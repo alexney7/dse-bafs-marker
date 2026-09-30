@@ -1,0 +1,239 @@
+{
+  "schema_version": 1,
+  "source_url": "https://x.dse00.com/cutoff/business",
+  "accessed_on": "2026-10-01",
+  "source_updated_on": "2026-09-29",
+  "source_heading": "BAFS (Accounting,2018)",
+  "scope": "accounting route; 2020–2025",
+  "status": "third-party student-shared reference; not official grade boundaries",
+  "scale_mapping_status": "unverified; do not automatically compare with weighted exam percentage",
+  "source_html_sha256": "66bb02fbd05d997d4c877a7356e816db2b4e47f383c22b0d932d885c0693cf7c",
+  "missing_levels": [
+    "1",
+    "U"
+  ],
+  "rows": {
+    "2025": {
+      "滿分": {
+        "score": 199,
+        "display_percent": 100,
+        "estimated": false
+      },
+      "5**": {
+        "score": 173,
+        "display_percent": 87,
+        "estimated": false
+      },
+      "5*": {
+        "score": 168,
+        "display_percent": 84,
+        "estimated": false
+      },
+      "5": {
+        "score": 154,
+        "display_percent": 77,
+        "estimated": false
+      },
+      "4": {
+        "score": 104,
+        "display_percent": 52,
+        "estimated": false
+      },
+      "3": {
+        "score": 98,
+        "display_percent": 49,
+        "estimated": false
+      },
+      "2": {
+        "score": 42,
+        "display_percent": 21,
+        "estimated": false
+      }
+    },
+    "2024": {
+      "滿分": {
+        "score": 199,
+        "display_percent": 100,
+        "estimated": false
+      },
+      "5**": {
+        "score": 176,
+        "display_percent": 88,
+        "estimated": false
+      },
+      "5*": {
+        "score": 162,
+        "display_percent": 81,
+        "estimated": false
+      },
+      "5": {
+        "score": 146,
+        "display_percent": 73,
+        "estimated": false
+      },
+      "4": {
+        "score": 121,
+        "display_percent": 61,
+        "estimated": false
+      },
+      "3": {
+        "score": 97,
+        "display_percent": 49,
+        "estimated": false
+      },
+      "2": {
+        "score": 54,
+        "display_percent": 27,
+        "estimated": true
+      }
+    },
+    "2023": {
+      "滿分": {
+        "score": 201,
+        "display_percent": 100,
+        "estimated": false
+      },
+      "5**": {
+        "score": 175,
+        "display_percent": 87,
+        "estimated": false
+      },
+      "5*": {
+        "score": 162,
+        "display_percent": 81,
+        "estimated": false
+      },
+      "5": {
+        "score": 144,
+        "display_percent": 72,
+        "estimated": false
+      },
+      "4": {
+        "score": 98,
+        "display_percent": 49,
+        "estimated": false
+      },
+      "3": {
+        "score": 66,
+        "display_percent": 33,
+        "estimated": false
+      },
+      "2": {
+        "score": 37,
+        "display_percent": 18,
+        "estimated": false
+      }
+    },
+    "2022": {
+      "滿分": {
+        "score": 209,
+        "display_percent": 100,
+        "estimated": false
+      },
+      "5**": {
+        "score": 176,
+        "display_percent": 84,
+        "estimated": false
+      },
+      "5*": {
+        "score": 166,
+        "display_percent": 79,
+        "estimated": false
+      },
+      "5": {
+        "score": 145,
+        "display_percent": 69,
+        "estimated": false
+      },
+      "4": {
+        "score": 130,
+        "display_percent": 62,
+        "estimated": false
+      },
+      "3": {
+        "score": 79,
+        "display_percent": 38,
+        "estimated": false
+      },
+      "2": {
+        "score": 44,
+        "display_percent": 21,
+        "estimated": true
+      }
+    },
+    "2021": {
+      "滿分": {
+        "score": 207,
+        "display_percent": 100,
+        "estimated": false
+      },
+      "5**": {
+        "score": 177,
+        "display_percent": 86,
+        "estimated": false
+      },
+      "5*": {
+        "score": 161,
+        "display_percent": 78,
+        "estimated": false
+      },
+      "5": {
+        "score": 144,
+        "display_percent": 70,
+        "estimated": false
+      },
+      "4": {
+        "score": 111,
+        "display_percent": 54,
+        "estimated": false
+      },
+      "3": {
+        "score": 79,
+        "display_percent": 38,
+        "estimated": false
+      },
+      "2": {
+        "score": 56,
+        "display_percent": 27,
+        "estimated": false
+      }
+    },
+    "2020": {
+      "滿分": {
+        "score": 214,
+        "display_percent": 100,
+        "estimated": false
+      },
+      "5**": {
+        "score": 176,
+        "display_percent": 82,
+        "estimated": false
+      },
+      "5*": {
+        "score": 163,
+        "display_percent": 76,
+        "estimated": false
+      },
+      "5": {
+        "score": 150,
+        "display_percent": 70,
+        "estimated": false
+      },
+      "4": {
+        "score": 111,
+        "display_percent": 52,
+        "estimated": false
+      },
+      "3": {
+        "score": 84,
+        "display_percent": 39,
+        "estimated": false
+      },
+      "2": {
+        "score": 47,
+        "display_percent": 22,
+        "estimated": true
+      }
+    }
+  }
+}
